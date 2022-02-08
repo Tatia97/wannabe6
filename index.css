@@ -1,0 +1,92 @@
+header {
+    background-color: rgb(39, 40, 44);
+    padding: 25px 108px 10px 108px;
+    display: none;
+}
+h4 {
+    color: white;
+    font-size: 24px;
+    font-family: system-ui;
+    margin-bottom: 15px;
+}
+.container {
+    position: relative;
+    margin-bottom: 60px;
+}
+.col-links {
+    right: 250px;
+    top: 0px;
+    position: absolute;
+}
+.logo-pic {
+    width: 25px;
+    position: absolute;
+}
+.visibe-header {
+    top: 200px;
+}
+.text-muted {
+    color: rgb(86, 96, 105);
+    font-family: system-ui;
+    line-height: 1.5;
+}
+.text-white {
+    color: white;
+    font-family: system-ui;
+    line-height: 1.5;
+}
+.logo {
+    position: absolute;
+    top: 180px;
+}
+.for-text {
+    position: absolute;
+    top: 3px;
+    left: 38px;
+    color: white;
+    font-family: system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
+.menu {
+    position: absolute;
+    right: 134px;
+    top: 166px;
+    border: 0.5px solid rgb(68, 70, 71);
+    padding: 3px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.menu-icon {
+    width: 25px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: rgb(122, 128, 133);
+    margin: 7px 0;
+}
+.header2 {
+    background-color: rgb(39, 40, 44);
+    position: relative;
+    padding: 15px 85px;
+}
+.logo-pic2 {
+    width: 25px;
+}
+.menu2 {
+    position: absolute;
+    right: 134px;
+    top: 5px;
+    border: 0.5px solid rgb(68, 70, 71);
+    padding: 3px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.for-text2{
+    position: absolute;
+    top: 18px;
+    left: 119px;
+    color: white;
+    font-family: system-ui;
+    font-weight: bold;
+    font-size: 20px;
+}
