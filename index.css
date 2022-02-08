@@ -90,3 +90,41 @@ h4 {
     font-weight: bold;
     font-size: 20px;
 }
+.middle {
+    margin-top: 100px;
+}
+.middle-h1 {
+    font-size: 40px;
+    text-align: center;
+    font-family: -webkit-pictograph;
+    color: rgb(63, 62, 62);
+    margin-bottom: 20px;
+}
+.middle-p {
+    font-size: 18px;
+    text-align: center;
+    font-family: -webkit-pictograph;
+    color: rgb(119, 118, 118);
+    line-height: 1.5;
+}
+.buttons {
+    margin-top: 20px;
+    text-align: center;
+}
+.middle-button {
+    padding: 8px 14px;
+    text-decoration: none;
+    color: white;
+    background-color: #3d7af5;
+    border-radius: 4px;
+    font-size: 15px;
+    border: none;
+    font-family: -webkit-pictograph;
+    cursor: pointer;
+}
+.middle-button:hover {
+    color: whitesmoke;
+}
+.smb {
+    background-color: rgb(116, 116, 116);
+}
