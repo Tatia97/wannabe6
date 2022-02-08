@@ -101,7 +101,7 @@ h4 {
     margin-bottom: 20px;
 }
 .middle-p {
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
     font-family: -webkit-pictograph;
     color: rgb(119, 118, 118);
@@ -117,7 +117,7 @@ h4 {
     color: white;
     background-color: #3d7af5;
     border-radius: 4px;
-    font-size: 15px;
+    font-size: 16px;
     border: none;
     font-family: -webkit-pictograph;
     cursor: pointer;
@@ -127,4 +127,48 @@ h4 {
 }
 .smb {
     background-color: rgb(116, 116, 116);
+}
+.card-container {
+    margin-top: 115px;
+    background-color: #f7f7f7;
+    padding: 50px 115px;
+}
+.card {
+    background-color: white;
+    width: 359px;
+    display: inline-block;
+    margin: 10px 5px;
+    border-radius: 3px;
+}
+.card-pic {
+    border-radius: 3px;
+    cursor: pointer;
+}
+.card-content {
+    padding: 10px 15px;
+}
+.card-p {
+    font-family: -webkit-pictograph;
+    color: rgb(75, 75, 75);
+    line-height: 1.5;
+}
+.card-a {
+    text-decoration: none;
+    font-family: -webkit-pictograph;
+    font-size: 14px;
+    color: rgb(124, 125, 126); 
+}
+.a-container {
+    margin-top: 10px;
+    padding: 5px 5px;
+    border: 0.4px solid rgb(124, 125, 126);
+    display: inline-block;
+    border-radius: 3px;
+}
+.p9 {
+    display: inline-block;
+    font-family: -webkit-pictograph;
+    font-size: 14px;
+    color: rgb(124, 125, 126); 
+    margin-left: 205px;
 }
